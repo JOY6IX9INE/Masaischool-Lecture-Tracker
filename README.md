@@ -2,8 +2,6 @@
 
 A lightweight Chrome Extension to help students of [Masai School](https://students.masaischool.com/lectures) keep track of their completed lectures effortlessly.
 
----
-
 ## ✨ Features
 
 - ✅ Mark lectures as **Completed**
@@ -12,8 +10,6 @@ A lightweight Chrome Extension to help students of [Masai School](https://studen
 - 📥 **Export** your completed lectures list as a `completed.json` file
 - 📤 **Import** a backup JSON file to restore your progress
 - 🔒 Works **only on**: `https://students.masaischool.com/lectures`
-
----
 
 ## 📸 Screenshots
 <div style="display: flex; justify-content: space-between;">
@@ -74,8 +70,6 @@ Crafted with ❤️ by a fellow Masai student to simplify tracking your learning
 Contributions and pull requests are most welcome!  
 Found a bug or want a feature? Open an issue or PR.
 
----
-
 ## ⚠️ Disclaimer
 
 This extension is intended for **educational and personal use only**. It is designed to help students track their lecture progress on the official Masai School platform.
@@ -86,4 +80,3 @@ This extension is intended for **educational and personal use only**. It is desi
 - Use of this tool is at your own discretion and risk.
 
 > **The author is not responsible for any misuse or consequences resulting from the use of this extension.**
-
