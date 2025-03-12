@@ -74,6 +74,16 @@ Crafted with ❤️ by a fellow Masai student to simplify tracking your learning
 Contributions and pull requests are most welcome!  
 Found a bug or want a feature? Open an issue or PR.
 
+---
+
 ## ⚠️ Disclaimer
-This extension is for educational and personal use only. Unauthorized use of Discord tokens may violate Discord’s terms of service. The author is not responsible for any misuse of this tool.
+
+This extension is intended for **educational and personal use only**. It is designed to help students track their lecture progress on the official Masai School platform.
+
+- This tool **does not interfere with or manipulate the platform’s data** in any way.
+- It simply stores progress **locally in your browser** for personal tracking purposes.
+- The author is **not affiliated with Masai School**.
+- Use of this tool is at your own discretion and risk.
+
+> **The author is not responsible for any misuse or consequences resulting from the use of this extension.**
 
