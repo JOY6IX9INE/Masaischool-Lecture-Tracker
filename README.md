@@ -1,6 +1,6 @@
 # Masaischool Lecture Tracker
 
-A lightweight Chrome Extension to help students of [Masai School](https://students.masaischool.com/lectures) keep track of their completed lectures effortlessly.
+A lightweight Browser Extension to help students of [Masai School](https://students.masaischool.com/lectures) keep track of their completed lectures effortlessly.
 
 ## ✨ Features
 
