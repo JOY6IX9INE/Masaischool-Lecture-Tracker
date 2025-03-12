@@ -15,12 +15,12 @@ A lightweight Chrome Extension to help students of [Masai School](https://studen
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 <div style="display: flex; justify-content: space-between;">
   <img src="https://i.ibb.co/gMvqgHnM/image.png" alt="Extension Screenshot 1" width="45%">
 </div>
 
-## How to Load the Extension
+## 💁🏻‍♂️ How to Load the Extension
 Follow these steps to load the extension into your browser:
 
 ### For Google Chrome or Chromium-based Browsers:
@@ -54,18 +54,20 @@ Follow these steps to load the extension into your browser:
 4. **Verify Installation:**
    - The extension should now appear in your add-ons list.
 
-## Usage
-1. Open the extension by clicking on its icon in the browser toolbar.
-2. Choose to either:
-   - Login With Token
-   - Get Token
-3. Follow on-screen instructions for the selected operation.
+## 💡 How to Use
+
+1. Navigate to: `https://students.masaischool.com/lectures`
+2. You'll see a **“MARK AS COMPLETED”** button beside each lecture.
+3. Click to mark ✅ or click again to unmark.
+4. Click the **extension icon** in the toolbar:
+   - 📥 **Download Backup** (saves your lecture list as `completed.json`)
+   - 📤 **Upload Backup** (restores your list and refreshes the page)
+5. A quick embed shows clear **Instructions** in the popup for your convenience.
 
 ## 🙌 Credits
 
 Crafted with ❤️ by a fellow Masai student to simplify tracking your learning journey.
 
----
 
 ## 🤝 Contribute
 
