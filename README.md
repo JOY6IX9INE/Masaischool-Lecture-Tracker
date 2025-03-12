@@ -65,13 +65,13 @@ Follow these steps to load the extension into your browser:
 
 Crafted with ❤️ by a fellow Masai student to simplify tracking your learning journey.
 
-## Disclaimer
-This extension is for educational and personal use only. Unauthorized use of Discord tokens may violate Discord’s terms of service. The author is not responsible for any misuse of this tool.
-
 ---
 
 ## 🤝 Contribute
 
 Contributions and pull requests are most welcome!  
 Found a bug or want a feature? Open an issue or PR.
+
+## ⚠️ Disclaimer
+This extension is for educational and personal use only. Unauthorized use of Discord tokens may violate Discord’s terms of service. The author is not responsible for any misuse of this tool.
 
