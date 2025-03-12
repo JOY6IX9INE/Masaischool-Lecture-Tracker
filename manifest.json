@@ -1,0 +1,26 @@
+{
+    "manifest_version": 3,
+    "name": "Masaischool Lecture Tracker",
+    "version": "1.0",
+    "description": "Track And Manage Completed Lectures",
+    "permissions": ["storage", "tabs", "activeTab", "scripting"],
+    "host_permissions": ["https://students.masaischool.com/lectures*"],
+    "icons": {
+        "48": "icon.png"
+    },    
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+      }
+    },
+    "content_scripts": [
+      {
+        "matches": ["https://students.masaischool.com/lectures*"],
+        "js": ["content.js"]
+      }
+    ]
+  }
+  
