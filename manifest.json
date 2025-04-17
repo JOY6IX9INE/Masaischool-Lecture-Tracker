@@ -1,10 +1,10 @@
 {
     "manifest_version": 3,
     "name": "Masaischool Lecture Tracker",
-    "version": "1.0",
+    "version": "1.2",
     "description": "Track And Manage Completed Lectures",
     "permissions": ["storage", "tabs", "activeTab", "scripting"],
-    "host_permissions": ["https://students.masaischool.com/lectures*"],
+    "host_permissions": ["https://students.masaischool.com/*"],
     "icons": {
         "48": "icon.png"
     },    
@@ -18,7 +18,7 @@
     },
     "content_scripts": [
       {
-        "matches": ["https://students.masaischool.com/lectures*"],
+        "matches": ["https://students.masaischool.com/*"],
         "js": ["content.js"]
       }
     ]
